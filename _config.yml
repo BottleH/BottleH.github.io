@@ -21,9 +21,9 @@ title_separator          : "&#124;"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
 name                     : "김병환"
 description              : "개발 관련 공부를 정리하는 블로그"
-url                      : "KimByeongHwan.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "BottleH.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "KimByeongHwan/KimByeongHwan.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "BottleH/BottleH.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "빨간뚜껑 블로그" # overrides the website title displayed in the masthead, use " " for no title
